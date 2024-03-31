@@ -22,8 +22,8 @@
 ![completed](https://github.com/akbarsami21/NoteApp/assets/109865799/78d42a69-000a-4f21-8bb0-9bd9468f4e28)
 <h4 align="center">Completed Page</h4>
 
-![incomplete](https://github.com/akbarsami21/NoteApp/assets/109865799/4b1f9042-5e50-46c5-8807-ce4affbeede3)
-<h4 align="center">Incompleted Page</h4>
+![incomplete](https://github.com/akbarsami21/NoteApp/assets/109865799/b5b03470-ed50-48a1-b9dd-2314207d6d46)
+<h4 align="center">Incomplete Page</h4>
 
 ![admin](https://github.com/akbarsami21/NoteApp/assets/109865799/8f586fe8-5142-4176-9279-1ab01fefb09d)
 <h4 align="center">Admin Panel</h4>
@@ -31,8 +31,13 @@
 ![addtask](https://github.com/akbarsami21/NoteApp/assets/109865799/ac456a72-155d-4dcf-a6fe-d5b4cd00c81a)
 <h4 align="center">Add Task</h4>
 
-![detail](https://github.com/akbarsami21/NoteApp/assets/109865799/a1763e2b-779d-4680-8b05-29882ff72179)
-<h4 align="center">Details Page</h4>
+![completestatus](https://github.com/akbarsami21/NoteApp/assets/109865799/3bd4d65e-1308-4436-9a39-b008d3e3058e)
+
+<h4 align="center">Details (Completed Status)</h4>
+
+![incompletestatus](https://github.com/akbarsami21/NoteApp/assets/109865799/863916a6-4cd1-4928-8ee2-e5c6c2d517c7)
+<h4 align="center">Details( Incomplete Status)</h4>
+
 
 ![update](https://github.com/akbarsami21/NoteApp/assets/109865799/4cf81290-d0a2-49f5-b402-3c98d8d1fadd)
 <h4 align="center">Update Page</h4>
