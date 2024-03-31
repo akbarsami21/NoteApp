@@ -28,6 +28,9 @@
 ![admin](https://github.com/akbarsami21/NoteApp/assets/109865799/8f586fe8-5142-4176-9279-1ab01fefb09d)
 <h4 align="center">Admin Panel</h4>
 
+![addtask](https://github.com/akbarsami21/NoteApp/assets/109865799/ac456a72-155d-4dcf-a6fe-d5b4cd00c81a)
+<h4 align="center">Add Task</h4>
+
 ![detail](https://github.com/akbarsami21/NoteApp/assets/109865799/a1763e2b-779d-4680-8b05-29882ff72179)
 <h4 align="center">Details Page</h4>
 
